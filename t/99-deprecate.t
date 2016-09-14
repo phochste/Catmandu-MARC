@@ -1,5 +1,3 @@
-use strict;
-
 use Test::More;
 use Test::Warnings ':all';
 
