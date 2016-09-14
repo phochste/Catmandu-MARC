@@ -41,6 +41,7 @@ my %module_build_args = (
     "Test::More" => "1.001003",
     "Test::Pod" => 0,
     "Test::Simple" => "1.001003",
+    "Test::Warnings" => 0,
     "XML::XPath" => "1.13"
   }
 );
@@ -53,6 +54,7 @@ my %fallback_build_requires = (
   "Test::More" => "1.001003",
   "Test::Pod" => 0,
   "Test::Simple" => "1.001003",
+  "Test::Warnings" => 0,
   "XML::XPath" => "1.13"
 );
 
